@@ -1,3 +1,59 @@
+# 🎮 Color War Game
+
+A strategic 2-player grid game built with React! Play as either **Red** or **Blue** and try to dominate the board using chain reactions and explosions.
+
+---
+
+## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/1cdce1dc-1783-40b8-91a0-9c9d8e88bd99)
+
+
+![image](https://github.com/user-attachments/assets/78bd116c-e605-44e2-9605-7cea79a63f3d)
+![image](https://github.com/user-attachments/assets/35aed8f4-4544-4b63-bfb4-1b1ed1a7877b)
+![image](https://github.com/user-attachments/assets/2e047eae-2161-446b-9505-259595475ceb)
+![image](https://github.com/user-attachments/assets/10efd35a-cbf1-4425-9415-442c328f3324)
+![image](https://github.com/user-attachments/assets/08c186d2-e875-42d5-8e02-26e78befb224)
+
+
+---
+
+## 🕹️ How to Play
+
+- The game is played on a **6x6 grid**.
+- Two players: **Red** and **Blue**, take turns.
+- Click on a cell to place your colored dot.
+- A cell can hold up to **4 dots**.
+- Once it reaches 4, the cell **explodes** and sends 1 dot to each adjacent cell.
+- Explosions can trigger **chain reactions**, capturing nearby cells.
+- If a player loses control of all their dots, the opponent wins.
+
+---
+
+## 🎯 Features
+
+- 🔁 Chain reactions through explosions
+- 🌗 Dark and light mode toggle
+- 🎨 Dynamic color indication of the current player
+- 🔄 Reset button to restart the game
+- 🎉 Win detection popup when one color dominates the board
+
+---
+
+## 📂 Live Demo
+
+[Play it on GitHub Pages](https://karraharichandana.github.io/colorwars)
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
