@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/colorwars/static/css/main.3372672a.css",
+    "main.js": "/colorwars/static/js/main.3a0d56aa.js",
+    "index.html": "/colorwars/index.html",
+    "main.3372672a.css.map": "/colorwars/static/css/main.3372672a.css.map",
+    "main.3a0d56aa.js.map": "/colorwars/static/js/main.3a0d56aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3372672a.css",
+    "static/js/main.3a0d56aa.js"
+  ]
+}
